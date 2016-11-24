@@ -62,6 +62,11 @@ void loop() {
       control = Serial.parseInt(); 
       
       //Serial.print(control);
+      
+      if (control > 20){
+        control =20;
+      }
+            
       DmxSimple.write(3,control); //Adjust brightenss based on given string value
       control = 0;
     }
