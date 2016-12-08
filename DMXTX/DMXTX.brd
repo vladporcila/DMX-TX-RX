@@ -1419,7 +1419,7 @@ at 30/07/2012 17:45:58</description>
 <wire x1="1.27" y1="1.905" x2="1.905" y2="1.905" width="0.1524" layer="21"/>
 <wire x1="1.905" y1="1.905" x2="1.905" y2="1.27" width="0.1524" layer="21"/>
 <circle x="0" y="0" radius="1.27" width="0.1524" layer="51"/>
-<pad name="1" x="0" y="0" drill="1.397" diameter="3.81" shape="octagon"/>
+<pad name="1" x="0" y="0" drill="2.4" diameter="3.81" shape="octagon"/>
 <text x="-1.905" y="2.286" size="1.27" layer="25" ratio="10">&gt;NAME</text>
 <text x="0" y="1.2" size="0.0254" layer="27">&gt;VALUE</text>
 </package>
